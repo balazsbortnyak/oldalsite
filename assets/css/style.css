@@ -8897,4 +8897,9 @@ header.in-box {
   }
 }
 
+@media only screen and (max-width: 600px) {
+     .serv-marq ontop {
+         display: none;
+     } 
+}
 /* ====================== [ End Responsive ] ====================== */
